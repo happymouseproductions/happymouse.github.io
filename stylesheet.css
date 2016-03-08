@@ -1,0 +1,29 @@
+.mission1 {
+
+	background-image: url('http://s27.postimg.org/z4j6wzns3/mouse.png');
+	padding: 25%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+	margin-top: -10px;
+	margin-bottom: -150px;
+	background-attachment: fixed;
+	background-position: center;
+	animation-duration: 4s;
+	animation-timing-function: ease-in-out;
+
+}
+.mission2{
+	animation-duration: 6s;
+	animation-timing-function: ease-in-out;
+	color: black;
+	font-family: 'Julius Sans One', sans-serif;
+}
+
+.mission3{
+	animation-duration: 8s;
+	animation-timing-function: ease-in-out;
+	color: black;
+	font-family: 'Julius Sans One', sans-serif;
+}
+
